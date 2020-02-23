@@ -1,0 +1,12 @@
+{
+  "name": "jump1jump",
+  "version": "1.0.0",
+  "description": "jump1jump by three.js",
+  "main": "game.js",
+  "scripts": {},
+  "author": "Joe",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.113.2"
+  }
+}
