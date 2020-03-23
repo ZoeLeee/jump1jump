@@ -1,9 +1,0 @@
-<!--index.wxml-->
-<view class="container">
-<view>
-  <text>Score</text>
-</view>
-  <view>
-    游戏主体
-  </view>
-</view>
